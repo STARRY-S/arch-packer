@@ -1,0 +1,6 @@
+/.dapper
+/tmp
+tmp*
+/.vscode/*
+/mnt
+/output
